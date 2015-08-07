@@ -1,8 +1,8 @@
-# _{Word Count}_
+# Word Count
 
 ##### _{Finds numbers of words in a sentence}, {August 8th 2015}_
 
-#### By _**{Ryan Heupler}**_
+#### By Ryan Heupler
 
 #### Link to Heroku https://limitless-castle-1553.herokuapp.com/
 
@@ -27,7 +27,7 @@ _{This application was built using Ruby as well as bootstrap}_
 ### Legal
 
 
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 Ryan Heupler
 
 This software is licensed under the MIT license.
 
