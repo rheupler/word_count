@@ -2,7 +2,7 @@ require('rspec')
 require('word_count')
 
 describe('String#word_count') do
-  it('Returns how many words in string') do
-    expect(("I am blue").word_count()).to(eq(3))
+  it('Counts the number of times a word appears in string') do
+    expect(("I am so sad").word_count("sad")).to(eq(1))
   end
 end
