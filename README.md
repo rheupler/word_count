@@ -12,7 +12,7 @@ _{Word Count will be able to have a user enter a sentence, and then enter in a w
 
 ## Setup
 
-*_Gems needed to run this application:
+*_Gems needed to run this application: 
 *_Sinatra
 *_Capybara
 
