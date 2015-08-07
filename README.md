@@ -4,6 +4,8 @@
 
 #### By _**{Ryan Heupler}**_
 
+#### Link to Heroku https://limitless-castle-1553.herokuapp.com/
+
 ## Description
 
 _{Word Count will be able to have a user enter a sentence, and then enter in a word. It will then display to the user how many times that word appears in the sentence they gave. It WILL handle integers as well as symbols.}
